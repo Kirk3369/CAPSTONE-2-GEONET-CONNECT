@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+*.log
+*.pem
+*.key
+backups/
+.agents/
+runtime/
+# Local SMS settings and message history
+config/sms.json
+config/sms-log.json
+# Database exports and demo records; retain the schema source
+*.sql
+!sql/schema.sql
+node_modules/

@@ -1,0 +1,13 @@
+.git
+.agents
+.codex
+.aws
+.env
+.env.*
+*.sql
+*.log
+node_modules
+vendor
+runtime
+config/sms.json
+config/sms-log.json
