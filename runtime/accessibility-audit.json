@@ -1,0 +1,26 @@
+[
+  {
+    "role": "subscriber",
+    "route": "subscriber.php",
+    "violations": [],
+    "errors": []
+  },
+  {
+    "role": "subscriber",
+    "route": "subscriber.php#profile",
+    "violations": [],
+    "errors": []
+  },
+  {
+    "role": "subscriber",
+    "route": "subscription.php",
+    "violations": [],
+    "errors": []
+  },
+  {
+    "role": "subscriber",
+    "route": "interruptions.php",
+    "violations": [],
+    "errors": []
+  }
+]
